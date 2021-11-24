@@ -29,6 +29,8 @@ for the browser (using `<script/>`).
 
 ## Examples
 
+An [online example](https://eparadis.github.io/opljs/examples/demo-web.html) is now available!
+
 In the `examples/` folder there are some short demonstrations showing how to
 interface with the OPL emulator.
 
